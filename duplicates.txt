@@ -1,0 +1,66 @@
+Checksum: e59906e23229dcf7418b716567cc7984 
+Files: ./fw_mini_v1.bsp
+./fw_miniv1.bsp
+./fw_miniV1.bsp
+
+Checksum: 49d6b05e0a21211f912348393026eecf 
+Files: ./fw_reboxed.bsp
+./fw_Reboxed.bsp
+
+Checksum: 38ee898819421beba384bbe66921679e 
+Files: ./fw_medieval.bsp
+./fw_medieval_nh.bsp
+
+Checksum: aff54157bd337eef9ddff6ce20487633 
+Files: ./fw_pmg_ftw_v1.bsp
+./fw_PMG_FTW_V1.bsp
+
+Checksum: aefee3dc480cd9fe2c4472206d2fc94a 
+Files: ./fw_no_mans_land.bsp
+./Fw_No_Mans_Land.bsp
+
+Checksum: 027ec7973200fd9174e38a7a84e16897 
+Files: ./fw_paintball2.bsp
+./fw_paintball.bsp
+
+Checksum: df16d0fa853ced94905de0d8916f785d 
+Files: ./fw_darkland-football.bsp
+./fw_football.bsp
+
+Checksum: 2d7de7e14603e20c7d24957e8c485732 
+Files: ./fw_pipeline.bsp
+./fw_pipelinev2.bsp
+./FW_Pipelinev2.bsp
+
+Checksum: e08c6ba4f7ca98d6d4f0ed997e8fe54e 
+Files: ./fw_sanctuary2.bsp
+./fw_Sanctuary2.bsp
+
+Checksum: 2b656ce6a6188dbda24ea690cd57e5ad 
+Files: ./alt/fw_greengrass.bsp
+./fw_greengrass_re_v31.bsp
+
+Checksum: 068b86178ff0e6bb9fb0069e2a8722a7 
+Files: ./fw_arena_v2.bsp
+./fw_arena_V2.bsp
+
+Checksum: 89103fb8eaef0e57caba45a5b099e984 
+Files: ./fw_moon.bsp
+./FW_moon.bsp
+
+Checksum: 668becff5c4dc1910129c91a1593de35 
+Files: ./fw_trimfortsv2.bsp
+./fw_TrimfortsV2.bsp
+
+Checksum: 25d6ff1ac35da337e60e5c4625b52772 
+Files: ./fw_city.bsp
+./Fw_city.bsp
+
+Checksum: 2dcfb8a4b05c658fcefabc3291013bdc 
+Files: ./fw_dirt.bsp
+./fw_Dirt.bsp
+./Fw_Dirt.bsp
+
+Checksum: ff19613086642c8252041f07a7f3fc26 
+Files: ./fw_under-control2.bsp
+./fw_under_control2.bsp
