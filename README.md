@@ -1,13 +1,15 @@
 # FortWars Map Archive
 
 ## Sources:
-- [Archive.org dump](https://archive.org/details/FortWars)
-- [Reddit dump](https://archive.org/details/FortWars)
+- [Archive.org dump](https://archive.org/details/FortWars) Unknown uploader, random link found on the web.
 - [SW's HUGE backup] Private URL, just a pile of all of his content he saved over the years.
-- [Our own FW repo] NOTE: We had some maps under content-compressed/ that weren't available under maps/. I copied over any unique maps, but can't remember what I did with any differing maps.
-- [NewHaven] The last community that hosted FW before the Darkland Servers revive. So many new maps were made plus quite a few edits.
-- [GameBanana] This website hosts loads of random HL2 to CS maps that we have used for the ideas and converted to FW style maps.
-- [SourceForts] Even the early days of Darkland Servers, most maps were based off of this mod for HL2.
+- [Our own FW repo] NOTE: We had some maps under content-compressed that weren't available under maps. I copied over any unique maps, but can't remember what I did with any differing maps.
+- [NewHaven] The last community that hosted FW before the Darkland Servers revive. So many new maps were made plus quite a few edits that we have since fixed up.
+- [GameBanana](https://gamebanana.com/) Another website that holds random archived CS and HL2 maps that we converted to FW maps.
+- [SourceForts](https://www.sourceforts.net/) Even the early days of Darkland Servers, most maps were based off of this mod for HL2.
+- [CS-BG](https://maps.cs-bg.info/) Another website that holds random archived CS and HL2 maps that we converted to FW maps.
+- [Game Maps](https://www.gamemaps.com/) Another website that holds random archived CS and HL2 maps that we converted to FW maps.
+- [17 Buddies](https://www.17buddies.rocks/) Another website that holds random archived CS and HL2 maps that we converted to FW maps.
 
 ## Subdirectories
 - mapsrc/* - vmf files for use in Hammer. I cleaned out any map compilation biproducts (.vmx. .log, etc). Let me know if you need them for some reason.
