@@ -10,6 +10,7 @@
 - [CS-BG](https://maps.cs-bg.info/) Another website that holds random archived CS and HL2 maps that we converted to FW maps.
 - [Game Maps](https://www.gamemaps.com/) Another website that holds random archived CS and HL2 maps that we converted to FW maps.
 - [17 Buddies](https://www.17buddies.rocks/) Another website that holds random archived CS and HL2 maps that we converted to FW maps.
+- [Steam Workshop](https://steamcommunity.com/app/4000/workshop/) Handful of ideas came from here, some maps were just simple enough to do a few edits and add the fortwars items.
 
 ## Subdirectories
 - mapsrc/* - vmf files for use in Hammer. I cleaned out any map compilation biproducts (.vmx. .log, etc). Let me know if you need them for some reason.
